@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "Name": "Akash Gupta",
+      "Salary": "1000"
+    },
+    {
+      "id": "122",
+      "Name": "asd",
+      "Salary": "5000"
+    },
+    {
+      "id": "123",
+      "Name": "asd",
+      "Salary": "5000"
+    },
+    {
+      "id": "124",
+      "Name": "asd",
+      "Salary": "5000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
